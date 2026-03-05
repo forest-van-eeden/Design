@@ -11,7 +11,7 @@ Transformer Hub :
 • breaking station
 • incoming charge receiver
 
-Learning Changing Station
+Learning Changing Station :
 • analysis metrics :
 	~ incoming current
 	~ outgoing currents
